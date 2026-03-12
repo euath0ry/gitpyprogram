@@ -7,4 +7,8 @@ def world():
         print(f"hello world!")
 
 world()
+def bred():
+    print("бред12")
+
+bred()
 print(umnojenie(5, 4))
