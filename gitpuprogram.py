@@ -1,7 +1,10 @@
 def umnojenie(a, b):
     return a * b
 print("helo wrld. uraa")
-print(5 + 5 + 5 * 2)
-print('d')
 
+def world():
+    for i in range(2):
+        print(f"hello world!")
+
+world()
 print(umnojenie(5, 4))
